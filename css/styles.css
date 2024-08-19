@@ -725,7 +725,7 @@ color: #8e8f99;
 
 }
 .modal-con-checkbox {
-    margin-bottom: 16px;
+    margin-bottom: 24px;
 }
 .modal-textarea{
     border: 1px solid rgba(46, 47, 66, 0.4);
@@ -758,7 +758,7 @@ color: rgba(46, 47, 66, 0.4);
     padding-bottom: 4px;
 }
 .form-wrapper-cont-coment {
-    margin-bottom: 18px;
+    margin-bottom: 16px;
 }
 .custom-chekbox {
     border-radius: 2px;
