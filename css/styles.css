@@ -778,3 +778,15 @@ padding: 16px 32px;
 width: 169px;
 height: 56px;
 }
+.modal-footer-paragraph {
+    margin-bottom: 16px;
+    font-weight: 500;
+    font-size: 16px; 
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #ffffff;
+}
+.modal-footer-form {
+    display: flex;
+    gap: 24px;
+}
