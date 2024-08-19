@@ -698,7 +698,7 @@ fill: #4D5AE5;
     position: relative;
     
 }
-.modal-icon{
+.modal-icon {
     position: absolute;
     top: 50%;
     left: 19px;
@@ -707,12 +707,12 @@ fill: #4D5AE5;
     transition: fill 250ms cubic-bezier(0.4, 0, 0.2, 1);
     left: 16px
 }
-.modal-icon:focus {
+.modal-icon :focus {
     fill: #4d5ae5;
 }
 
 .form-wrapper-cont {
-    margin-bottom: 8px;
+    margin-bottom: 16px;
     
 }
 .modal-form-label-coment {
