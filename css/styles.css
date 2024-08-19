@@ -770,6 +770,7 @@ justify-content: center;
 align-items: center;
 margin-right: 8px;
 transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1), border 250ms cubic-bezier(0.4, 0, 0.2, 1), fill 250ms cubic-bezier(0.4, 0, 0.2, 1);
+fill: transparent;
 }
 .checkbox:checked + .custom-label-user-checkbox > .custom-chekbox {
     border-color: transparent;
